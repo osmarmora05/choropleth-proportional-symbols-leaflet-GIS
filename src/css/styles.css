@@ -1,0 +1,4 @@
+@import './globals.css';
+@import './variables.css';
+@import './components/header.css';
+@import './components/map.css';

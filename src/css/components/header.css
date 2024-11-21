@@ -1,0 +1,78 @@
+.header {
+    width: 100%;
+    background-color: var(--bg-color);
+    border-bottom: 1px solid var(--border-color);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 24px;
+    padding-right: 24px
+}
+
+.header__menu-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.header__menu-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.header__separator {
+    width: 1px;
+    height: 24px;
+    background-color: var(--fg-normal-color);
+}
+
+.header__title {
+    font-size: var(--fs-1);
+    color: var(--fg-normal-color);
+    font-weight: 900;
+}
+
+.header__option-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.header__menu-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+
+}
+
+.modal {
+    width: 350px;
+    height: 400px;
+    z-index: 99999;
+    margin-top: 430px;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-left: 355px;
+    gap: 12px;
+    background-color: var(--bg-color);
+    border: 1px solid var(--border-color);
+}
+
+.modal>p {
+    text-align: center;
+}
+
+.modal>p:last-of-type {
+    color: var(--border-color);
+}
