@@ -13,17 +13,17 @@
 <img src="./assets/choropleth.png">
 <img src="./assets/proportional-symbols.png">
 
-## Cartographic Techniques:
-- `Choropleth`
-- `Proportional Symbols`
+## 🗺️ Cartographic Techniques
+- Choropleth
+- Proportional Symbols
 
-## Library:
+## 📓 Library
 - [Leaflet](https://leafletjs.com/)
 
-### Plugins:
+### Plugins
 - [leaflet.WorldMiniMap](https://github.com/maneoverland/leaflet.WorldMiniMap)  
 
-## Usage
+## ⚙️ Usage
 `src/scripts/config.js`: In the `config` object, you can define the general information of the website along with the Map layers.
 
 ## 🎮 Demo
@@ -39,5 +39,5 @@
 ### Icons
 - [tabler](https://tabler.io/icons)
 
-## Author
+## ©️ Author
 - Osmar Adrian Mora Cerna [@osmarmora05](https://github.com/osmarmora05)
