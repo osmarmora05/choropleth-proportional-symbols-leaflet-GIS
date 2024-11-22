@@ -27,7 +27,7 @@
 `src/scripts/config.js`: In the `config` object, you can define the general information of the website along with the Map layers.
 
 ## 🎮 Demo
-[Here]()
+[Here](https://osmarmora05.github.io/choropleth-proportionalSymbols-leaflet-GIS/)
 
 ## 🛠️ Tech Stack
 - HTML
