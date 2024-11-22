@@ -28,7 +28,7 @@ EPSG:4326 - WGS 84`,
 Capas cartografía de INETER<br/>
 Mapa base OpenStreetMap`,
     creationDate: "Diriamba, 22 de noviembre del 2024",
-    repository: "",
+    repository: "https://github.com/osmarmora05/choropleth-proportionalSymbols-leaflet-GIS",
     vividColors: true,
     showLabels: false,
     title: "Densidad de las viviendas de la capital Managua, Nicaragua",
