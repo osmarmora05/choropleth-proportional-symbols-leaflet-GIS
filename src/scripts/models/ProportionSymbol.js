@@ -79,7 +79,7 @@ export class ProportionSymbol extends BaseMap {
 
         info.update = (props) => {
             this._div.innerHTML = `
-                <h4>Densidad de población</h4>
+                <h4>Cantidad de viviendas</h4>
                 ${props
                     ? `<b>${props.Municipio}</b><br />${props[`${this.config.interestValue}`]} Viviendas`
                     : "Pase el cursor sobre un Municipio"
