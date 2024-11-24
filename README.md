@@ -10,7 +10,9 @@
 
 <br/>
 
+Choropleth
 <img src="./assets/choropleth.png">
+Proportional Symbols
 <img src="./assets/proportional-symbols.png">
 
 ## 🗺️ Cartographic Techniques

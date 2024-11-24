@@ -9,8 +9,9 @@
 </div>
 
 <br/>
-
+Coropleta
 <img src ="./assets/choropleth.png">
+Símbolos proporcionales
 <img src ="./assets/proportional-symbols.png">
 
 ## 🗺️ Técnicas cartográfica
