@@ -1,5 +1,5 @@
 <div align="center"> 
-    <h1>Pagina web del Mapa de Managua, capital de Nicaragua</h1>
+    <h1>Pagina web Mapa, Cantidad de viviendas del departamento Managua, Nicaragua</h1>
 </div>
 
 <div align="center">
