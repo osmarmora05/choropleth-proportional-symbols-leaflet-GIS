@@ -36,7 +36,7 @@ export const config = {
         new Choropleth(map, {
             id: 0,
             idStr: "Coropleta",
-            name: "Densidad de las viviendas de la capital Managua, Nicaragua",
+            name: "Cantidad de viviendas del departamento Managua, Nicaragua",
             coordinate: [12.1935, -86.4368],
             zoom: 10,
             interestValue: "Viviendas_",
@@ -46,7 +46,7 @@ export const config = {
         new ProportionSymbol(map, {
             id: 1,
             idStr: "Símbolos proporcionales",
-            name: "Densidad de las viviendas de la capital Managua, Nicaragua",
+            name: "Cantidad de viviendas del departamento Managua, Nicaragua",
             coordinate: [12.1935, -86.4368],
             zoom: 10,
             interestValue: "Viviendas_",
