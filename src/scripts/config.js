@@ -20,18 +20,18 @@ const MapOfManaguaProportionalSymbol = await fetch(
 
 export const config = {
     autor: `Autor: Osmar Adrian Mora Cerna<br/>
-Estudiante de la clase Sistemas<br/>
-de Información Geográfica`,
+    Estudiante de la clase Sistemas<br/>
+    de Información Geográfica`,
     coordinateSystem: `Sistema de coordenadas<br/>
-EPSG:4326 - WGS 84`,
+    EPSG:4326 - WGS 84`,
     dataSource: `Fuente de datos:<br/>
-Capas cartografía de INETER<br/>
-Mapa base OpenStreetMap`,
+    Capas cartografía de INETER<br/>
+    Mapa base OpenStreetMap`,
     creationDate: "Diriamba, 22 de noviembre del 2024",
     repository: "https://github.com/osmarmora05/choropleth-proportionalSymbols-leaflet-GIS",
     vividColors: true,
     showLabels: false,
-    title: "Densidad de las viviendas de la capital Managua, Nicaragua",
+    title: "Cantidad de viviendas del departamento Managua, Nicaragua",
     maps: [
         new Choropleth(map, {
             id: 0,
