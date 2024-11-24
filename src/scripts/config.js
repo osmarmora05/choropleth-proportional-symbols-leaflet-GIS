@@ -1,4 +1,4 @@
-import { map } from "../lib/leafflet.js";
+import { map } from "../lib/leaflet.js";
 import { Choropleth, ProportionSymbol } from "./models/index.js";
 
 const MapOfManaguaCoropleta = await fetch(

@@ -1,6 +1,6 @@
 
 import { config } from "./config.js";
-import { map } from "../lib/leafflet.js";
+import { map } from "../lib/leaflet.js";
 
 const $comboboxCartographicTechnical = document.querySelector("#combobox-cartographic-technique");
 const $menu = document.querySelector(".header__menu-label")

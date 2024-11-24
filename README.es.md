@@ -19,7 +19,7 @@ Símbolos proporcionales
 - Símbolos proporcionales
 
 ## 📓 Librería
-- [leafflet](https://leafletjs.com/)
+- [leaflet](https://leafletjs.com/)
 
 ### Plugins
 - [leaflet.WorldMiniMap](https://github.com/maneoverland/leaflet.WorldMiniMap)  
