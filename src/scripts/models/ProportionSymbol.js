@@ -96,6 +96,7 @@ export class ProportionSymbol extends BaseMap {
 
         legend.onAdd = () => {
             const div = L.DomUtil.create("div", "info legend");
+            div.innerHTML = `<h4>Cantidad de viviendas</h4>`;
             grades.forEach((grade, i) => {
 
                 const nextGrade = grades[i + 1];
